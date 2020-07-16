@@ -1,11 +1,14 @@
 ## Greetings, my name is **Matt Duvall**
 
 ## About Me
+
 I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.com/en-us/cities/bradenton.html).  I am the owner and co-founder of [Atlasient](https://atlasient.com) custom software solutions. I graduated with an Accounting degree from [Radford University](https://www.radford.edu/), passed the [Maryland CPA Exam](https://www.dllr.state.md.us/license/cpa/), but when [Al Gore created the Internet](https://www.youtube.com/watch?v=pTG_6ypYSS4), software was much more exciting that Income Statements and Balance Sheets.  I then completed a Masters Degree in Information Technology from [Stevenson University](https://www.stevenson.edu/) and have been coding ever since.
 
 ## Find me elsewhere
 
-
+<a href="https://dev.to/mgd216">
+    <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/blogs/devto.svg" alt="reddit" style="vertical-align:top; margin:4px">
+</a>
 <a href="https://twitter.com/matthewduvall">
   <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
 </a>
@@ -41,7 +44,7 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 <br/>
 <br/>
 
-Special Thanks to [Hermant](https://dev.to/hemant/i-rebuilt-my-github-profile-and-made-it-dynamic-2m6c?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) with Dev.to article on setting up GitHub Profile.
+Special Thanks to [Hermant](https://dev.to/hemant/i-rebuilt-my-github-profile-and-made-it-dynamic-2m6c?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) and others with Dev.to article on setting up GitHub Profile.
 
 <!--
 **mgd216/mgd216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
