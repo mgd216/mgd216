@@ -23,7 +23,7 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 ## I build cool stuff with
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
@@ -36,6 +36,7 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
+</p>
 
 <br/>
 <br/>
