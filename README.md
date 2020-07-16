@@ -22,8 +22,6 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 
 ## I build cool stuff with
 
-<p align="center">
-
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -39,7 +37,8 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/mgd216/mgd216/master/svg/devices/raspberrypi.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
 
-</p>
+<br/>
+<br/>
 
 Special Thanks to [Hermant](https://dev.to/hemant/i-rebuilt-my-github-profile-and-made-it-dynamic-2m6c?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) with Dev.to article on setting up GitHub Profile.
 
