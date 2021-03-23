@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.com/en-us/cities/bradenton.html).  I am the owner and co-founder of [Atlasient](https://atlasient.com) custom software solutions. I graduated with an Accounting degree from [Radford University](https://www.radford.edu/), passed the [Maryland CPA Exam](https://www.dllr.state.md.us/license/cpa/), but when [Al Gore created the Internet](https://www.youtube.com/watch?v=pTG_6ypYSS4), software was much more exciting that Income Statements and Balance Sheets.  I then completed a Masters Degree in Information Technology from [Stevenson University](https://www.stevenson.edu/) and have been coding ever since.
+I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.com/en-us/cities/bradenton.html).  I am the owner and co-founder of [Atlasient](https://atlasient.com) custom software solutions. I graduated with an Accounting degree from [Radford University](https://www.radford.edu/), passed the [Maryland CPA Exam](https://www.dllr.state.md.us/license/cpa/), but when [Al Gore created the Internet](https://www.youtube.com/watch?v=pTG_6ypYSS4), software was much more exciting than Income Statements and Balance Sheets.  I then completed a Masters Degree in Information Technology from [Stevenson University](https://www.stevenson.edu/) and have been coding ever since.
 
 ## Find me elsewhere
 
