@@ -44,8 +44,6 @@ I'm a Sr. Software Engineer living in [Bradenton, FL](https://www.visitflorida.c
 <br/>
 <br/>
 
-Special Thanks to [Hermant](https://dev.to/hemant/i-rebuilt-my-github-profile-and-made-it-dynamic-2m6c?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) and others with Dev.to article on setting up GitHub Profile.
-
 <!--
 **mgd216/mgd216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
